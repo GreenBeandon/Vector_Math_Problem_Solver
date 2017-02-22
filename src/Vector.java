@@ -1,4 +1,7 @@
-
+/*Vector Math Equations
+ * Brandon Kerber
+ * Date Started: Feb 16th, 2017
+*/
 public class Vector 
 {
 	public double x;

@@ -1,3 +1,8 @@
+/*Vector Math Equations
+ * Brandon Kerber
+ * Date Started: Feb 16th, 2017
+*/
+
 import java.util.Scanner;
 
 
@@ -20,6 +25,7 @@ public class Main
 	public static int getStartInput()
 	{
 		System.out.println("*********Vector Math Solver*********");
+		System.out.println("Brandon Kerber - Open Source");
 		System.out.println(" 1). Slope of a Vector");
 		System.out.println(" 2). Vector Length");
 		System.out.println(" 3). Unit Vector");
